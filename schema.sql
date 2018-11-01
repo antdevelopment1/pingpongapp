@@ -4,7 +4,7 @@ create table players (
     id serial primary key,
 
     -- Instead of using text we can limit the length of a text field
-    name varchar(100),
+    name varchar(100)
 
 );
 
