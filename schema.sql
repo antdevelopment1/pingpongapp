@@ -1,0 +1,1 @@
+-- Should should only contain create table statements

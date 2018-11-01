@@ -1,0 +1,1 @@
+-- Purpose of seed.sql is to fill database with dummy data
